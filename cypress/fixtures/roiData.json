@@ -1,0 +1,33 @@
+{
+    "url": "https://test-roic.conceptvines.com/",
+    "homeUrl": "https://test-roic.conceptvines.com/home",
+    
+    "roleContent_BU": ".rolecontent1",
+    "roleContent_IC": ".rolecontent1",
+    "roleContent": ".rolecontent2",
+  
+    "buttons": {
+      "roiDashboard": "a:contains('ROI Dashboard')",
+      "editRoi": "button:has(img[alt='Edit image'])",
+      "uncheckSelectAll": "//span[normalize-space()='Select All']",
+      "checkSelectAll": "//span[normalize-space()='Select All']",
+      "calculate": "button.calculate",
+      "roiMessage":".no-data-message",
+      "download": ".download-button",
+      "salesCoach": "a:contains('Sales Coach')",
+      "salesCoachQA":"//div[@class='suggestedQuestion']/ul/li",
+      "generateProposal": "//span[normalize-space()='Generate Proposal']",
+      "draftEmail": "//span[normalize-space()='Draft Email']"
+     
+      
+    },
+    "dropdowns": {
+      "selectors": [
+        ".dropdowns > :nth-child(1) > input",
+        ".dropdowns > :nth-child(2) > input"
+      ],
+      "values": ["Federal Bank", "Federal Bank"]
+    },
+    "roiSelectionIndex": 0,
+    "roiQuery": "What is the ROI ID generated for this Use Case?{enter}"
+}

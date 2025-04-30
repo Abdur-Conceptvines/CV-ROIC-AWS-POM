@@ -1,0 +1,1376 @@
+{
+
+    "testCase0.0": [
+      { "dropdown": 2, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 3, "option": 0, "expectedText": "Small" },
+      { "dropdown": 4, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 5, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase0.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase0.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase0.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+
+
+    "testCase1.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase1.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase1.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase1.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+
+    
+  "testCase2.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase2.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase2.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase2.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+
+  "testCase3.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase3.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase3.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase3.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+
+"testCase4.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase4.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase4.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase4.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+
+
+  "testCase5.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase5.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase5.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase5.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Customer Account Management" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+
+
+
+    
+    "testCase6.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase6.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase6.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase6.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+
+
+    "testCase7.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase7.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase7.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase7.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+
+    
+  "testCase8.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase8.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase8.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase8.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+
+  "testCase9.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase9.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase9.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase9.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+
+"testCase10.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase10.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase10.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase10.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+
+
+  "testCase11.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase11.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase11.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase11.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Loan Origination and Processing" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+
+
+
+
+
+     
+    "testCase12.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase12.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase12.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase12.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+
+
+    "testCase13.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase13.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase13.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase13.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+
+    
+  "testCase14.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase14.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase14.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase14.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+
+  "testCase15.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase15.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase15.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase15.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+
+"testCase16.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase16.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase16.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase16.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+
+
+  "testCase17.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase17.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase17.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase17.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 0, "expectedText": "Retail Banking" },
+      { "dropdown": 4, "option": 2, "expectedText": "Credit Card Services" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+
+
+
+
+    "testCase18.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase18.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase18.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase18.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+
+
+
+
+
+
+    "testCase19.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase19.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase19.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase19.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+
+    "testCase20.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase20.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase20.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase20.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+    "testCase21.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase21.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase21.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase21.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+
+
+
+    
+    "testCase22.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase22.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase22.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase22.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+
+    "testCase23.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase23.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase23.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase23.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Commercial Lending" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+
+
+
+
+
+
+    
+
+    "testCase24.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase24.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase24.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase24.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+
+
+
+
+
+
+    "testCase25.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 0, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase25.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase25.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase25.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+
+    "testCase26.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase26.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase26.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase26.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+    "testCase27.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase27.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase27.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase27.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+
+
+
+    
+    "testCase28.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase28.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase28.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+    
+    "testCase28.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 4, "expectedText": "Identity Verification" }
+      
+    ],
+
+    "testCase29.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase29.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase29.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase29.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 1, "expectedText": "Corporate Banking" },
+      { "dropdown": 4, "option": 1, "expectedText": "Corporate Debt and Equity Solutions" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+
+
+
+    "testCase30.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase30.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase30.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+    
+    "testCase30.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 0, "expectedText": "Intelligent Document Processing" }
+      
+    ],
+
+
+
+    "testCase31.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+
+
+    "testCase31.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase31.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 1, "expectedText": "Report Generation" }
+      
+    ],
+    
+    "testCase31.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 0, "expectedText": "Report Generation" }
+      
+    ],
+
+
+
+
+    "testCase32.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+    "testCase32.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase32.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+    
+    "testCase32.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 2, "expectedText": "Customer Service/Agent" }
+      
+    ],
+
+
+
+    "testCase33.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+
+
+    "testCase33.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase33.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    
+    "testCase33.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Employee Assistant" }
+      
+    ],
+    "testCase34.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Small" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Identity Verification" }
+      
+    ],
+    "testCase34.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Identity Verification" }
+      
+    ],
+    "testCase34.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Identity Verification" }
+      
+    ],
+    "testCase34.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 3, "expectedText": "Identity Verification" }
+      
+    ],
+
+
+
+
+
+
+
+
+
+
+
+    
+    "testCase35.0": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 0, "expectedText": "Small" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase35.1": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 1, "expectedText": "Medium" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase35.2": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 2, "expectedText": "Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ],
+    
+    "testCase35.3": [
+      { "dropdown": 1, "option": 28, "expectedText": "US East (N. Virginia)" },
+      { "dropdown": 2, "option": 3, "expectedText": "Extra Large" },
+      { "dropdown": 3, "option": 2, "expectedText": "Risk Management and Compliance" },
+      { "dropdown": 4, "option": 0, "expectedText": "Anti-Money Laundering (AML) and Know Your Customer (KYC)" },
+      { "dropdown": 6, "option": 5, "expectedText": "Fraud detection" }
+      
+    ]
+
+  
+
+  
+  
+  
+  
+  }
+  
