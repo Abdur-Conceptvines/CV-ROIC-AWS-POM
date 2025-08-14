@@ -1,3 +1,4 @@
+import { selectDropdownOptions } from '../support/commands';
 import A_UserModePage from '../support/pages/A_UserModePage';
 import B_RoiEntryPage from '../support/pages/B_RoiEntryPage';
 import C_BusinessPage from '../support/pages/C_BusinessPage';
@@ -12,17 +13,17 @@ const ReportPage = new D_ReportPage();
 describe('ROIFLOW_DIY_Basic', () => {
   beforeEach(() => {
     cy.fixture('roiData.json').then((testData) => {
-        cy.visit(testData.url, { failOnStatusCode: false });
+      cy.visit(testData.url, { failOnStatusCode: false });
 
-        cy.setSessionStorageFromFixture('sessionStorage.json');
+      cy.setSessionStorageFromFixture('sessionStorage.json');
 
-        cy.reload();
-        cy.visit(testData.homeUrl)
-            .its('document.readyState')
-            .should('eq', 'complete')
-            .then(() => cy.log('✅ Navigated to Home URL:', testData.homeUrl));
+      cy.reload();
+      cy.visit(testData.homeUrl)
+        .its('document.readyState')
+        .should('eq', 'complete')
+        .then(() => cy.log('✅ Navigated to Home URL:', testData.homeUrl));
     });
-});
+  });
 
   it('should complete the full ROI flow for DIY Basic', () => {
     cy.fixture('roiData.json').then((testData) => {
@@ -34,9 +35,32 @@ describe('ROIFLOW_DIY_Basic', () => {
       RoiEntryPage.fillDropdowns(testData.dropdowns.selectors, testData.dropdowns.values);
       cy.wait(5000);
       RoiEntryPage.selectDropdownOptionsFromJSON('dropdown.json', 'testCase0.0');
+      cy.xpath(testData.buttons.uncheckSelectAll)
+        .should('exist')
+        .click()
+        .then(() => cy.log('✅ check Select All clicked'));
+
+      cy.wait(3000);
+
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 0);
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 1);
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 2);
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 3);
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 4);
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 5);
+      cy.wait(3000);
+      selectDropdownOptions('.custom-multi-select', 6);
+      cy.wait(3000);
+     
       RoiEntryPage.clickCalculateButton(testData.buttons.calculate);
       cy.wait(5000);
-     
+
       // Page 3
       BusinessPage.clickCalculateButton(testData.buttons.calculate);
       //page 4
